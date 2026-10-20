@@ -1,0 +1,11 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100    388   0    388   0      0 319.2k      0                              0100    388   0    388   0      0 308.0k      0                              0100    388   0    388   0      0 298.8k      0                              0
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Tue, 20 Oct 2026 03:01:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+[{"id":2,"title":"Clean Code","author":"Robert C. Martin","year":2008},{"id":3,"title":"The Pragmatic Programmer","author":"D.Thomas & A.Hunt","year":1999},{"id":5,"title":"Норвегийн ой","author":"Мүрүками Харүки","year":"1,997"},{"id":6,"title":"","author":"","year":""},{"id":7,"title":"","author":"","year":"-5"},{"id":8,"title":" ","author":" ","year":"   "}]
